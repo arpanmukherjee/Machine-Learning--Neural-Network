@@ -6,4 +6,4 @@ For the practical implementation and python code I have refered to the following
 Mnist dataset loader code was taken from Github for the referernce purpose
 
 
-Discussed with Vani Agarwal
+Discussed with Vani Agarwal and Rajshree Khare
